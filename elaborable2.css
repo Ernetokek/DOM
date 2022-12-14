@@ -1,0 +1,21 @@
+#canva {
+    width: 200px;
+    height: 200px;
+    background-color: gray ;
+}
+.square {
+height: 200px;
+width: 200px;
+background-color: blue;
+position: relative;
+box-sizing: border-box;
+left: 45%;
+/* border-radius: 50%; */
+}
+#button2{
+    position: absolute;
+    box-sizing: border-box;
+    left: 47%;
+    bottom: 60%;
+    padding: 40px 40px 40px 40px;
+}

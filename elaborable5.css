@@ -1,0 +1,24 @@
+#mL1 {
+    position: relative;
+    box-sizing: border-box;
+    left: 40%;
+    top: 200px;
+}
+#mL2 {
+    position: relative;
+    box-sizing: border-box;
+    left: 60%;
+    top: 55px;
+}
+#button4 {
+    position: relative;
+    box-sizing: border-box;
+    left: 42.5%;
+    top: 200px;
+}
+#button5 {
+    position: relative;
+    box-sizing: border-box;
+    left: 62.5%;
+    top: 55px;
+}

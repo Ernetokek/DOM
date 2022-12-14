@@ -1,0 +1,48 @@
+#canva {
+    width: 200px;
+    height: 200px;
+    background-color: gray ;
+}
+#button1{
+    position: absolute;
+    box-sizing: border-box;
+    left: 45%;
+    bottom: 210px;
+    padding: 40px 40px 40px 40px;
+    
+}
+#obj1 {
+    left: 35%;
+    position: relative;
+    box-sizing: border-box;
+}
+#obj2 {
+    left: 45%;
+    position: relative;
+    box-sizing: border-box;
+    bottom: 33px;
+}
+#obj3 {
+    left: 55%;
+    position: relative;
+    box-sizing: border-box;
+    bottom: 66px;
+}
+#obj4 {
+    left: 35%;
+    position: relative;
+    box-sizing: border-box;
+    top: 120px;
+}
+#obj5 {
+    left: 45%;
+    position: relative;
+    box-sizing: border-box;
+    top: 86px;
+}
+#obj6 {
+    left: 55%;
+    position: relative;
+    box-sizing: border-box;
+    top: 52px;
+} 

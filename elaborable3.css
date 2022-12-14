@@ -1,0 +1,67 @@
+#canva {
+    width: 200px;
+    height: 200px;
+    background-color: gray ;
+}
+
+#button3 {
+    position: absolute;
+    box-sizing: border-box;
+    left: 47%;
+    bottom: 60%;
+    padding: 40px 40px 40px 40px;
+}
+.noc1 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 40%;
+    position: relative;
+    box-sizing: border-box;
+    top: 350px;
+}
+.c1 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 45%;
+    position: relative;
+    box-sizing: border-box;
+    top: 310px;
+}
+.noc2 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 50%;
+    position: relative;
+    box-sizing: border-box;
+    top: 270px;
+}
+.c2 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 55%;
+    position: relative;
+    box-sizing: border-box;
+    top: 230px;
+}
+.noc3 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 60%;
+    position: relative;
+    box-sizing: border-box;
+    top: 190px;
+}
+.c3 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 65%;
+    position: relative;
+    box-sizing: border-box;
+    top: 150px;
+}
